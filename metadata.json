@@ -1,6 +1,0 @@
-{
-  "name": "OlyverDan Barber Shop",
-  "description": "Site profissional e moderno para a OlyverDan Barber Shop em Pirapora, MG. Cortes masculinos, degradês, barba, agendamento via WhatsApp e galeria de fotos de clientes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
